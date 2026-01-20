@@ -70,6 +70,6 @@ AudioClassifier/
 
 ## Author
 
-Jordan Hsieh | [LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/jhsieh93)
+Jordan Hsieh | [LinkedIn](https://linkedin.com/in/jordan-hsieh1) | [GitHub](https://github.com/jhsieh93)
 
 Technical Program Manager with background in digital signal processing and AI/ML, transitioning into AI product development.

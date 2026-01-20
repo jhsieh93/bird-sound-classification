@@ -6,7 +6,7 @@ import shutil
 # ===== UPDATE THESE PATHS =====
 METADATA_FILE = r'C:\Users\Jordan\Downloads\archive\wavfiles\bird_songs_metadata.csv'  # Your CSV file name (might be different)
 AUDIO_SOURCE_DIR = r'C:\Users\Jordan\Downloads\archive\wavfiles'  # Where your .wav files are (current directory)
-OUTPUT_DIR = r'C:\Users\Jordan\Desktop\Birds'  # Where to create organized folders
+OUTPUT_DIR = r'C:\Users\Jordan\PycharmProjects\AudioClassifier'  # Where to create organized folders
 # ==============================
 
 print("Reading metadata...")

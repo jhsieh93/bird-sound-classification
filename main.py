@@ -199,7 +199,7 @@ def train_model(model, train_loader, val_loader, num_epochs=20, device='cuda'):
 # ===== 4. MAIN EXECUTION =====
 if __name__ == '__main__':
     # Setup
-    AUDIO_DIR = r'C:\Users\Jordan\Desktop\Birds'  # Your audio folder path
+    AUDIO_DIR = r'C:\Users\Jordan\PycharmProjects\AudioClassifier\Birds'  # Your audio folder path
     BATCH_SIZE = 16
     NUM_EPOCHS = 20
 
